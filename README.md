@@ -1,0 +1,2 @@
+# R_hypothesis_testing_education_and_career_success
+Анализ данных об образовании и карьерном успехе
